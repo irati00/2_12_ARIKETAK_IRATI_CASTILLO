@@ -1,3 +1,4 @@
 1. kapitulua: Git: sarrera
 2. kapitulua: Oinarrizko lan-fluxua
 3. kapituluga: Urruneko biltegiak
+4. kapitulua: Urruneko biltegien klonazioa
