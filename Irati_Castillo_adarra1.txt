@@ -1,2 +1,6 @@
 1. fitxategia
+<<<<<<< HEAD
 Lerro bat sortuta main adarretik
+=======
+Lerro berria aldaketak ikusteko
+>>>>>>> Irati_Castillo_adarra
